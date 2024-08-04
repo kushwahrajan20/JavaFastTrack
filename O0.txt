@@ -1,0 +1,7 @@
+/*
+ * Four parts of Oops
+ * 1)Abstract - hiding internal details
+ * 2)Encapsulation - act of putting various component together
+ * 3)Inheritance - act of driving new things from existing things 
+ * 4)Polymorphism - one entity many forms
+ */

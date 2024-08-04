@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "O4",
+            "request": "launch",
+            "mainClass": "O4",
+            "projectName": "JavaFastTrack_91884e55"
+        },
+        {
+            "type": "java",
+            "name": "O3",
+            "request": "launch",
+            "mainClass": "O3",
+            "projectName": "JavaFastTrack_91884e55"
+        },
+        {
+            "type": "java",
+            "name": "O2",
+            "request": "launch",
+            "mainClass": "O2",
+            "projectName": "JavaFastTrack_91884e55"
+        },
+        {
+            "type": "java",
+            "name": "O1",
+            "request": "launch",
+            "mainClass": "O1",
+            "projectName": "JavaFastTrack_91884e55"
+        },
+        {
+            "type": "java",
+            "name": "M8",
+            "request": "launch",
+            "mainClass": "M8",
+            "projectName": "JavaFastTrack_91884e55"
+        },
+        {
+            "type": "java",
+            "name": "M7",
+            "request": "launch",
+            "mainClass": "M7",
+            "projectName": "JavaFastTrack_91884e55"
+        },
+        {
+            "type": "java",
+            "name": "M6",
+            "request": "launch",
+            "mainClass": "M6",
+            "projectName": "JavaFastTrack_91884e55"
+        },
+        {
+            "type": "java",
+            "name": "M5",
+            "request": "launch",
+            "mainClass": "M5",
+            "projectName": "JavaFastTrack_91884e55"
+        },
+        {
+            "type": "java",
+            "name": "M4",
+            "request": "launch",
+            "mainClass": "M4",
+            "projectName": "JavaFastTrack_91884e55"
+        },
+        {
+            "type": "java",
+            "name": "M3",
+            "request": "launch",
+            "mainClass": "M3",
+            "projectName": "JavaFastTrack_91884e55"
+        },
+        {
+            "type": "java",
+            "name": "M2",
+            "request": "launch",
+            "mainClass": "M2",
+            "projectName": "JavaFastTrack_91884e55"
+        },
+        {
+            "type": "java",
+            "name": "M1",
+            "request": "launch",
+            "mainClass": "M1",
+            "projectName": "JavaFastTrack_91884e55"
+        },
+        {
+            "type": "java",
             "name": "L51",
             "request": "launch",
             "mainClass": "L51",
